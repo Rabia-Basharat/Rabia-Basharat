@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rabia-Basharat
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning 7th semester of my Bachelors
 - 💞️ I’m looking to collaborate on automation
 - 📫 Reach me through my email 
 
